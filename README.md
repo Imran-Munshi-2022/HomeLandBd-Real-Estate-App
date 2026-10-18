@@ -4,7 +4,7 @@
 
 **HomeLandBd** ("Your Dream Property Awaits") is a comprehensive real estate and property management mobile application designed to connect property buyers, sellers, developers, and investors on a single unified platform. 
 
-This project was designed and developed as part of the **Mobile Application Design Lab** coursework.
+This project was designed and developed as part of the **Mobile Application Design Lab - CSE414** coursework.
 
 ---
 
