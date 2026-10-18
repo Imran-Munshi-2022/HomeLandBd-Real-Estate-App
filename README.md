@@ -1,4 +1,4 @@
-# HomeLandBd-Real-Estate-App
+# HomeLandBd-Mobile-App
 # 🏢 HomeLandBd - Real Estate & Property App
 
 **HomeLandBd** is a feature-rich real estate and property management mobile application designed to simplify buying, selling, renting, and investing in properties. 
