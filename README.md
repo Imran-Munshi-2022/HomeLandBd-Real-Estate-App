@@ -23,15 +23,15 @@ This project was designed and developed as part of the **Mobile Application Desi
 
 ### 2. Core Navigation & Property Browsing
 *(Home Dashboard, Side Navigation Drawer, Buy Property Categories, and Apartment List)*
-![Home and Buy Screens](home_and_buy_screens.jpg)
+![Home and Buy Screens](home_and_buy_screens.png)
 
 ### 3. Property Listing, Development & Investment Portals
 *(Sell Property Form, Ongoing Development Projects, and Investment Opportunities)*
-![Sell Development and Investment Screens](sell_dev_invest_screens.jpg)
+![Sell Development and Investment Screens](sell_dev_invest_screens.png)
 
 ### 4. Comprehensive Property & Project Details
 *(Apartment Details, Development Details, and Investment Details)*
-![Property Details Screens](property_details_screens.jpg)
+![Property Details Screens](property_details_screens.png)
 
 ---
 
@@ -62,4 +62,4 @@ This project was designed and developed as part of the **Mobile Application Desi
 
 ## 📂 Repository Contents
 * `hlandbdd.zip` — Complete project archive from local development environment.
-* `*.png / *.jpg` — High-resolution UI screen captures of all application modules.
+* `*.png ` — High-resolution UI screen captures of all application modules.
