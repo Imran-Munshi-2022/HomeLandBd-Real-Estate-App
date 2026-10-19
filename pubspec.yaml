@@ -1,0 +1,80 @@
+name: homelandbd
+description: A real estate mobile application
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  image_picker: ^1.0.4
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.5
+
+flutter:
+  uses-material-design: true
+  assets:
+    
+    - assets/images/a1.jpg
+    - assets/images/a1m.jpg
+    - assets/images/a2.jpg
+    - assets/images/a2m.jpg
+    - assets/images/b1.jpg
+    - assets/images/b2.jpg
+    
+    - assets/images/b1m.jpg
+    - assets/images/d1.jpg
+    - assets/images/d2.jpg
+    - assets/images/d3.jpg
+    - assets/images/h1.jpg
+    - assets/images/floor1.jpg
+    - assets/images/floor2.jpg
+    - assets/images/gallery1.jpg
+    - assets/images/gallery2.jpg
+    - assets/images/gallery3.jpg
+    - assets/images/gallery4.jpg
+    - assets/images/h1e13.jpg
+    - assets/images/h1e14.jpg
+    - assets/images/h1e15.jpg
+    - assets/images/h1e16.jpg
+    
+
+    - assets/images/h2.jpg
+    - assets/images/h2e1.jpg
+    - assets/images/h2e2.jpg
+    - assets/images/h2e3.jpg
+    - assets/images/h2e4.jpg
+    - assets/images/h2e11.jpg
+    - assets/images/h2e12.jpg
+    - assets/images/h2e13.jpg
+    - assets/images/h2e14.jpg
+    - assets/images/h2s1.png
+    
+
+    - assets/images/h3.jpg
+    - assets/images/h3e1.jpg
+    - assets/images/h3e2.jpg
+    - assets/images/h3e3.jpg
+    - assets/images/h3e4.jpg
+    - assets/images/h3e11.jpg
+    - assets/images/h3e12.jpg
+    - assets/images/h3e13.jpg
+    - assets/images/h3e14.jpg
+    - assets/images/h3s1.png
+
+    - assets/images/l1.jpg
+    - assets/images/l2.jpg
+    - assets/images/l3.jpg
+
+    - assets/images/logo.jpg
+
+    - assets/images/reyad.png
+    - assets/images/mun.png
